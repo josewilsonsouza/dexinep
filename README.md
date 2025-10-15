@@ -1,2 +1,2 @@
-# ufrj_data_inep
-Reune os dados brutos da ufrj obtidos no site do Inep
+# DexInep - Data Extraction from INEP
+Extrator de dados públicos do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)
